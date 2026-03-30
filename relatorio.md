@@ -4,13 +4,11 @@
 
 - Disciplina: Estruturas de Dados I
 - Data da entrega: 30/03/2026
-- Equipe: [preencher nome da equipe]
+- Equipe: Gustavo Vieira Wesolowski e Guilherme Renzo
 - Integrantes:
-  - [preencher integrante 1]
-  - [preencher integrante 2]
-  - [preencher integrante 3]
-  - [adicionar ou remover linhas conforme a equipe]
-- Repositorio GitHub: [inserir link]
+  - Gustavo Vieira Wesolowski
+  - Guilherme Renzo
+- Repositorio GitHub: https://github.com/gustavovieiira/IA-para-Desenvolvimento-Revis-o-de-Estruturas.git
 
 ## 2. Ferramenta de IA escolhida
 
@@ -24,7 +22,7 @@
   - Foi utilizado o conhecimento previo da equipe sobre assistentes de IA para programacao.
   - Se a equipe tiver visto video, tutorial ou documentacao, registrar aqui.
 - Integracao com IDE:
-  - [preencher: VSCode, PyCharm, navegador, terminal, outra]
+  - VS Code
 - Como a equipe pretende usá-la:
   - Gerar rascunhos iniciais de algoritmos
   - Revisar solucoes propostas pelos integrantes
@@ -80,14 +78,10 @@ Assim, a atividade atende ao requisito de ter pelo menos metade dos problemas em
 
 ## 7. Divisao de responsabilidade entre integrantes
 
-Preencher a distribuicao final de acordo com a equipe. Exemplo:
-
 | Integrante | Problemas sob responsabilidade |
 |------------|--------------------------------|
-| Integrante 1 | Two Sum, Reverse Linked List, Valid Parentheses |
-| Integrante 2 | Best Time to Buy and Sell Stock, Linked List Cycle, Min Stack |
-| Integrante 3 | Product of Array Except Self, Add Two Numbers, Daily Temperatures |
-| Integrante 4 | 3Sum, Merge Intervals, Remove Nth Node From End of List |
+| Gustavo Vieira Wesolowski | Two Sum, Product of Array Except Self, Merge Intervals, Reverse Linked List, Add Two Numbers, Valid Parentheses |
+| Guilherme Renzo | Best Time to Buy and Sell Stock, 3Sum, Linked List Cycle, Remove Nth Node From End of List, Min Stack, Daily Temperatures |
 
 Observacao: cada integrante deve ficar responsavel por pelo menos 3 problemas.
 
