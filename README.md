@@ -51,10 +51,3 @@ python linked_lists/reverse_linked_list.py
 ```
 
 Os arquivos incluem exemplos simples no bloco `if __name__ == "__main__":`.
-
-## Ajustes antes da entrega
-
-- Preencher os nomes dos integrantes em `relatorio.md`
-- Adicionar o link do repositorio GitHub da equipe
-- Confirmar quem ficou responsavel por cada problema
-- Garantir que todos os integrantes realizem commits no repositiorio
